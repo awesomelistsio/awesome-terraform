@@ -71,6 +71,7 @@ Terraform is an open-source Infrastructure as Code (IaC) software tool created b
 - [Checkov](https://github.com/bridgecrewio/checkov) – Static analysis for security and compliance.
 - [Open Policy Agent (OPA)](https://www.openpolicyagent.org/) – Use with Terraform to enforce policies.
 - [Terrafirma](https://github.com/marketplace/actions/terrafirma) – Security risk assessment via GitHub Action.
+- [terraform-risk-accessor](https://github.com/Liam-Johnston/terraform-risk-accessor) – GitHub Action that analyzes Terraform plan JSON and comments risk levels on pull requests.
 
 ## CI/CD Integration
 
