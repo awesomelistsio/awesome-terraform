@@ -57,6 +57,7 @@ Terraform is an open-source Infrastructure as Code (IaC) software tool created b
 - [terraform-docs](https://github.com/terraform-docs/terraform-docs) – Generate documentation from Terraform modules.
 - [tfsec](https://github.com/aquasecurity/tfsec) – Static analysis for Terraform security issues.
 - [Pre-commit Terraform Hooks](https://github.com/antonbabenko/pre-commit-terraform) – Pre-commit hooks for formatting, validation, docs, etc.
+- [tfdrift](https://github.com/sudarshan8417/tfdrift) – Drift detection CLI for Terraform and OpenTofu with four-tier severity classification (60+ built-in rules across AWS/Azure/GCP), cost impact estimation, and Slack/PagerDuty/Teams/OpsGenie notifications.
 
 ## Providers
 
