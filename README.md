@@ -42,6 +42,7 @@ Terraform is an open-source Infrastructure as Code (IaC) software tool created b
 
 - [Terraform Up & Running (Book)](https://www.terraformupandrunning.com/) – Practical introduction to Terraform.
 - [Awesome Terraform Study Guide](https://github.com/antonbabenko/terraform-best-practices) – Best practices and conventions.
+- [azure-az104](https://github.com/victorlane/azure-az104) – AZ-104 Azure Administrator study notes paired with hands-on Terraform examples, including a landing-zone reference architecture.
 - [FreeCodeCamp Terraform Crash Course](https://www.youtube.com/watch?v=SLB_c_ayRMo) – Video tutorial.
 
 ## Modules
