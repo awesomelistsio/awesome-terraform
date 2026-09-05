@@ -1,4 +1,4 @@
-# Awesome Terraform [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Terraform [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -102,10 +102,10 @@ Terraform is an open-source Infrastructure as Code (IaC) software tool created b
 
 ## Related Awesome Lists
 
-- **[Awesome DevOps](https://github.com/awesomelistsio/awesome-devops)**
-- **[Awesome AWS](https://github.com/awesomelistsio/awesome-aws)**
-- **[Awesome Cloud Native](https://github.com/awesomelistsio/awesome-cloud-native)**
-- **[Awesome Infrastructure as Code](https://github.com/awesomelistsio/awesome-iac)**
+- **[Awesome DevOps](https://github.com/brandonhimpfen/awesome-devops)**
+- **[Awesome AWS](https://github.com/brandonhimpfen/awesome-aws)**
+- **[Awesome Cloud Native](https://github.com/brandonhimpfen/awesome-cloud-native)**
+- **[Awesome Infrastructure as Code](https://github.com/brandonhimpfen/awesome-iac)**
   
 ## Contribute
 
